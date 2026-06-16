@@ -72,4 +72,4 @@ For major changes, open an issue first to discuss proposed changes.
 
 ---
 
-Thank you for contributing to making this project better! 🙏
+Thank you for contributing to making this project better! 
