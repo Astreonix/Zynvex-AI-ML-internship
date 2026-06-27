@@ -93,7 +93,7 @@ predicted_price = model.predict(new_data)
 
 ## Author
 
-**Mehr** — BS Computer Science (FAST NUCES Peshawar), Machine Learning & Data Science.
+**Mehr** — BS Computer Science (FAST NUCES ), Machine Learning & Data Science.
 
 ## License
 
