@@ -189,7 +189,7 @@ This project is licensed under the **MIT License** — see [LICENSE](LICENSE) fo
 <div align="center">
 
 Made with ❤️ by **Mehr Ali**  
-[GitHub](https://github.com/mehrali-hub) · [Kaggle](https://kaggle.com/mehralieng)
+[GitHub](https://github.com/Astreonix) · [Kaggle](https://kaggle.com/mehralieng)
 
 ⭐ Star this repo if you found it useful!
 
